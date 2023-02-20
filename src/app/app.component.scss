@@ -1,0 +1,16 @@
+.tC{
+    font-size: 15px !important;
+    font-family: 'inter',sans-serif;
+}
+.p-button:disabled {
+    background-color: rgb(224 224 224) !important;
+    color: rgba(0, 0, 0, 0.38) !important;
+    opacity: 1 !important;
+    cursor: no-drop;
+}
+
+.container {
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 35%;
+}
